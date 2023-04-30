@@ -1,3 +1,3 @@
 # cryptodev-nft-collection
 
-!()['screen.png']
+!()[screen.png]
